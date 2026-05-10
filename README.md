@@ -2,7 +2,7 @@
 
 ### Hello, I am an android developer, always follow best practices for android application and I am always ready to learn new technologies, methods, and principle as per the project requirements. Keep Learning and Keep Sharing
 
-<a href="mailto:rizwanakbar767@gmail.com"><img src="https://img.shields.io/badge/Email-rizwan-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/rizwan-akbar-jutt-53669b278" target="_blank"><img src="https://img.shields.io/badge/linkedin-rizwan-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/rizwanakbarjutt/" target="_blank"><img src="https://img.shields.io/badge/instagram-rizwanakbarjutt-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:sohailasghar8689@gmail.com"><img src="https://img.shields.io/badge/Email-sohail-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sohail-asghar-446887363?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://img.shields.io/badge/linkedin-sohail-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/sohail.jutt_654?igsh=bGlycmdnazRhaDM4&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/instagram-sohailakbarjutt-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # LENSIFY Application
 
